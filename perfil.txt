@@ -1,2 +1,3 @@
-Color favorito: Rojito
-
+<<<<<<< HEAD
+Color favorito:Rojito y Verdejo y solucino el conflicto
+>>>>>>> rama-b
